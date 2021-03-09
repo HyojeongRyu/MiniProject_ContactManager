@@ -1,0 +1,8 @@
+Honggildong,010-1234-5678,,,gildonghong@pnu.ac.kr,20000101
+Kimchulsoo,010-2345-6789,¤À,,chulsoo@pnu.ac.kr,20011010
+Honggildong,010-1234-5678,,,gildonghong@pnu.ac.kr,20000101
+Kimchulsoo,010-2345-6789,,,chulsoo@pnu.ac.kr,20011010
+Honggildong,010-1234-5678,,,gildonghong@pnu.ac.kr,20000101
+Kimchulsoo,010-2345-6789,,,chulsoo@pnu.ac.kr,20011010
+Honggildong,010-1234-5678,,,gildonghong@pnu.ac.kr,20000101
+Kimchulsoo,010-2345-6789,,,chulsoo@pnu.ac.kr,20011010
